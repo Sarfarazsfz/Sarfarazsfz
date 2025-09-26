@@ -83,31 +83,28 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   https://github.com/sarfarazsfz/index1.html
 
 
----
-
-## 📈 GitHub Stats & Contributions
-<p align="center">
-  <!-- GitHub Stats -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarfarazsfz&show_icons=true&count_private=false&theme=tokyonight" />
-  
-  <!-- Languages in Ring Style -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazsfz&layout=donut&theme=tokyonight" />
-</p>
+## 🚀 GitHub Stats - Md Sarfaraz Alam (Sarfarazsfz)
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazsfz&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=donut&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 📈 GitHub stats
+### 📊 Contribution Stats
+
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarfarazsfz&show_icons=true&count_private=false&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazsfz&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfarazsfz&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sarfarazsfz&limit=5&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117" />
+</p>
 
 ## ✨ What I build & learn
 - Frontend UI/UX clones and prototypes (responsive CSS, animations).  
