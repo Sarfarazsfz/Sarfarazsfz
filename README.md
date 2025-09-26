@@ -5,8 +5,6 @@ Updated: 2025-09-26 — icons: skillicons.dev
 
 <div align="center">
   <h1>Hi 👋 I'm Md Sarfaraz Alam — <strong>sarfarazsfz</strong></h1>
-  <p><strong>3rd-year B.Tech CSE • Frontend & JavaScript enthusiast • UI/UX lover</strong></p>
-
   <!-- quick badges -->
   <p>
     <a href="https://github.com/sarfarazsfz" target="_blank" rel="noopener">
@@ -22,7 +20,7 @@ Updated: 2025-09-26 — icons: skillicons.dev
 ---
 
 ## 🔭 About Me
-I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who builds focused frontend prototypes and small JS projects to learn core web fundamentals and clean UI patterns. See my public projects below. :contentReference[oaicite:5]{index=5}
+I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who builds focused frontend prototypes and small JS projects to learn core web fundamentals and clean UI patterns. See my public projects below.
 
 ---
 
