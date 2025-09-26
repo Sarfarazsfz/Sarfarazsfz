@@ -70,23 +70,8 @@ I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who b
 ---
 
 ## 📫 Contact
-- GitHub: [@sarfarazsfz](https://github.com/sarfarazsfz). :contentReference[oaicite:12]{index=12}  
-- LinkedIn: [in/faraz4237](https://www.linkedin.com/in/faraz4237). :contentReference[oaicite:13]{index=13}  
-- Email: `your.email@example.com` — replace with your contact address.
+- GitHub: [@sarfarazsfz](https://github.com/sarfarazsfz)
+- LinkedIn: [in/faraz4237](https://www.linkedin.com/in/faraz4237)
+- Email: `mdsarfarazalam669@gmail.com`
 
 ---
-
-## 🔧 Troubleshooting (icons & widgets)
-1. **Icons not showing?**  
-   - Make sure the `img` uses `https://skillicons.dev/icons?...` (the README above uses this). Skill Icons expects supported icon IDs (examples: `html,css,js,react,nodejs` etc.). See the official list if you want extra icons. :contentReference[oaicite:14]{index=14}
-   - If GitHub doesn’t render external images in your environment (rare), use the fallback below or host the generated SVG inside your repo (e.g., `/assets/skills.svg`) and reference it locally.
-
-2. **Fallback (shields badges)** — replace the skill-icons line with short shields if you prefer single badges:
-   ```md
-   <p align="center">
-     <!-- fallback single-line badges -->
-     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge" />
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
-     ...etc
-   </p>
