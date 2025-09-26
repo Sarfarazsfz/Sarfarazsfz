@@ -84,6 +84,22 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ---
 
+## 📈 GitHub Stats & Contributions
+<p align="center">
+  <!-- GitHub Stats -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarfarazsfz&show_icons=true&count_private=false&theme=tokyonight" />
+  
+  <!-- Languages in Pie Chart -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazsfz&layout=pie&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazsfz&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 📈 GitHub stats
 <p align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sarfarazsfz&show_icons=true&count_private=false&theme=tokyonight" />
