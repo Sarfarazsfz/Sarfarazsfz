@@ -1,15 +1,22 @@
 <div align="center">
-  <h1>Hi I'm Md Sarfaraz Alam — </h1>
-  <!-- quick badges -->
+  <h1>Hi, I'm Md Sarfaraz Alam 👋</h1>
+  
+  <!-- Social Icons -->
   <p>
-    <a href="https://www.linkedin.com/in/faraz4237" target="_blank" rel="noopener">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <a href="https://github.com/Sarfarazsfz" target="_blank" rel="noopener">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     </a>
+    <a href="https://www.linkedin.com/in/faraz4237" target="_blank" rel="noopener">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+  </p>
+  
+  <!-- Quick Badge -->
+  <p>
     <img alt="Profile: repos" src="https://img.shields.io/badge/Repos-5-blueviolet?style=for-the-badge" />
   </p>
 </div>
 
----
 
 ## 👨‍🎓 About Me
 
