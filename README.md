@@ -4,7 +4,7 @@ Updated: 2025-09-26 — icons: skillicons.dev
 -->
 
 <div align="center">
-  <h1>Hi 👋 I'm Md Sarfaraz Alam — <strong>sarfarazsfz</strong></h1>
+  <h1>Hi I'm Md Sarfaraz Alam — <strong>sarfarazsfz</strong></h1>
   <!-- quick badges -->
   <p>
     <a href="https://github.com/sarfarazsfz" target="_blank" rel="noopener">
@@ -19,10 +19,48 @@ Updated: 2025-09-26 — icons: skillicons.dev
 
 ---
 
-## 🔭 About Me
-I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who builds focused frontend prototypes and small JS projects to learn core web fundamentals and clean UI patterns. See my public projects below.
+## 👨‍🎓 About Me
+
+Hello, World! I'm **Md Sarfaraz Alam** - a 3rd-year **B.Tech CSE** student with a strong interest in technology and its applications.  
+My focus lies in developing projects that integrate creativity with code, exploring modern technologies, and applying problem-solving approaches to practical scenarios.  
+I am committed to continuous learning and aim to build a career as a developer in the tech industry.  
 
 ---
+
+### 📚 Academics
+- Completed **Secondary School Certificate (SSC)** in **2021** with **81.6%**.
+- Completed **Intermediate** from *Anugrah Memorial College* in **2023** with **71.4%**.
+- Currently pursuing **B.Tech in Computer Science and Engineering**.
+
+---
+
+### 💻 Projects & Experience
+- **IDP Project — Digital Spring Vote**  
+  - Leading the project team.  
+  - Designed the **UI interface** and developed the **CSS-based frontend**.  
+  - Gained practical experience in **frontend development** and **teamwork**.  
+
+- **Simon Says Game (JavaScript)**  
+  - Created an interactive memory-based game using **HTML, CSS, and JavaScript**.  
+  - Strengthened my concepts in **DOM manipulation** and **event handling**.  
+  - [View Project on GitHub](https://github.com/sarfarazsfz/Simon-Says-Game)  
+
+---
+
+### 🎯 Career Aspiration
+I aspire to build my career as a **developer** in the tech industry after graduation.  
+I am eager to keep learning, growing, and applying my skills to real-world projects.
+
+---
+
+### 🌱 Hobbies & Interests
+- **Watching Anime & Reading Manga** — inspires me to stay creative.  
+- Fascinated by how tools like **Blender** and other advanced technologies are used in anime creation.  
+- This curiosity motivates me to keep exploring **technology** and **innovation**.  
+
+---
+
+✨ *Thank you for visiting my profile!*  
 
 ## 🧰 Tech stack — 
 <p align="center">
