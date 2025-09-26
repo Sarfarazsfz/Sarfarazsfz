@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Md Sarfaraz Alam 👋</h1>
+  <h1>Hi, I'm Md Sarfaraz Alam  </h1>
   
   <!-- Social Icons -->
   <p>
