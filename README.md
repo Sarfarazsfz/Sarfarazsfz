@@ -24,7 +24,7 @@ I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who b
 
 ---
 
-## 🧰 Tech stack — Skill Icons (skillicons.dev)
+## 🧰 Tech stack — 
 <p align="center">
   <!-- main icon row (Skill Icons) -->
   <a href="https://skillicons.dev" target="_blank" rel="noopener">
