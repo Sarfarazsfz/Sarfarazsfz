@@ -83,7 +83,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   https://github.com/sarfarazsfz/index1.html
 
 
-## 🚀 GitHub Stats - Md Sarfaraz Alam (Sarfarazsfz)
+## 🚀 GitHub Stats -
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true" height="150" />
