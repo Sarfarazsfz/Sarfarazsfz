@@ -4,7 +4,7 @@ Updated: 2025-09-26 — icons: skillicons.dev
 -->
 
 <div align="center">
-  <h1>Hi I'm Md Sarfaraz Alam — <strong>sarfarazsfz</strong></h1>
+  <h1>Hi I'm Md Sarfaraz Alam — </h1>
   <!-- quick badges -->
   <p>
     <a href="https://github.com/sarfarazsfz" target="_blank" rel="noopener">
