@@ -34,22 +34,19 @@ I’m **Md Sarfaraz Alam (sarfarazsfz)** — a 3rd-year B.Tech CSE student who b
   </a>
 </p>
 
-> If Skill Icons are blocked or not rendering on your account, the Troubleshooting section shows a quick fallback.
-
 ---
 
 ## 🚀 Notable projects (from your public repos)
-> Pulled from your public GitHub listing so links and names match what’s on your profile. :contentReference[oaicite:6]{index=6}
 
 - **Simon-Says-Game** — memory-based game built with HTML, CSS, JavaScript. (Pinned).  
-  https://github.com/sarfarazsfz/Simon-Says-Game. :contentReference[oaicite:7]{index=7}
-- **Spotify-Web-Player-UI-Clone** — responsive UI clone that demonstrates advanced CSS layouts. Updated on profile. :contentReference[oaicite:8]{index=8}  
+  https://github.com/sarfarazsfz/Simon-Says-Game.
+- **Spotify-Web-Player-UI-Clone** — responsive UI clone that demonstrates advanced CSS layouts. Updated on profile.
   https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone
-- **Random-Color-Generator** — JavaScript DOM practice project. :contentReference[oaicite:9]{index=9}  
+- **Random-Color-Generator** — JavaScript DOM practice project.  
   https://github.com/sarfarazsfz/Random-Color-Generator
-- **Navigation-Menu-Bar** — responsive sidebar navigation demo. :contentReference[oaicite:10]{index=10}  
+- **Navigation-Menu-Bar** — responsive sidebar navigation demo. 
   https://github.com/sarfarazsfz/Navigation-Menu-Bar
-- **index1.html** — prototype / demo page. :contentReference[oaicite:11]{index=11}  
+- **index1.html** — prototype / demo page. 
   https://github.com/sarfarazsfz/index1.html
 
 ---
