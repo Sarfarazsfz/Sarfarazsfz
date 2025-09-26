@@ -1,8 +1,3 @@
-<!--
-Profile README for Md Sarfaraz Alam (sarfarazsfz)
-Updated: 2025-09-26 — icons: skillicons.dev
--->
-
 <div align="center">
   <h1>Hi I'm Md Sarfaraz Alam — </h1>
   <!-- quick badges -->
@@ -18,7 +13,7 @@ Updated: 2025-09-26 — icons: skillicons.dev
 
 ## 👨‍🎓 About Me
 
-Hello, World! I'm *Md Sarfaraz Alam* - a 3rd-year *B.Tech CSE* student with a strong interest in technology and its applications.  
+Hello, World! I am Md Sarfaraz Alam - a 3rd-year *B.Tech CSE* student with a strong interest in technology and its applications.  
 My focus lies in developing projects that integrate creativity with code, exploring modern technologies, and applying problem-solving approaches to practical scenarios.  
 I am committed to continuous learning and aim to build a career as a developer in the tech industry.  
 
@@ -83,7 +78,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   https://github.com/sarfarazsfz/index1.html
 
 
-## 🚀 GitHub Stats -
+## 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true" height="150" />
