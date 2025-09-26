@@ -82,6 +82,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 - *index1.html* — prototype / demo page. 
   https://github.com/sarfarazsfz/index1.html
 
+
 ---
 
 ## 📈 GitHub Stats & Contributions
@@ -89,13 +90,13 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   <!-- GitHub Stats -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sarfarazsfz&show_icons=true&count_private=false&theme=tokyonight" />
   
-  <!-- Languages in Pie Chart -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazsfz&layout=pie&theme=tokyonight" />
+  <!-- Languages in Ring Style -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazsfz&layout=donut&theme=tokyonight" />
 </p>
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazsfz&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarfarazsfz&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
