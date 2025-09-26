@@ -7,9 +7,6 @@ Updated: 2025-09-26 — icons: skillicons.dev
   <h1>Hi I'm Md Sarfaraz Alam — </h1>
   <!-- quick badges -->
   <p>
-    <a href="https://github.com/sarfarazsfz" target="_blank" rel="noopener">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@sarfarazsfz-181717?style=for-the-badge&logo=github" />
-    </a>
     <a href="https://www.linkedin.com/in/faraz4237" target="_blank" rel="noopener">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
     </a>
