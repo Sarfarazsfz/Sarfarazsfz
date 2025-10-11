@@ -38,12 +38,12 @@ I am committed to continuous learning and aim to build a career as a developer i
   - Leading the project team.  
   - Designed the *UI interface* and developed the *React-based frontend*.  
   - Gained practical experience in *frontend development* and *teamwork*.
-  - [View Project on GitHub](https://github.com/sarfarazsfz/springvote-react)  
+  - [View Projet through demo-link](https://sarfarazsfz.github.io/springvote-react/)  
 
 - *Simon Says Game (JavaScript)*  
   - Created an interactive memory-based game using *HTML, CSS, and JavaScript*.  
   - Strengthened my concepts in *DOM manipulation* and *event handling*.  
-  - [View Project on GitHub](https://github.com/sarfarazsfz/Simon-Says-Game)  
+  - [View Project through demo-link](https://sarfarazsfz.github.io/Simon-Says-Game/)  
 
 ---
 
