@@ -36,8 +36,9 @@ I am committed to continuous learning and aim to build a career as a developer i
 ### 💻 Projects & Experience
 - *IDP Project — Digital Spring Vote*  
   - Leading the project team.  
-  - Designed the *UI interface* and developed the *CSS-based frontend*.  
-  - Gained practical experience in *frontend development* and *teamwork*.  
+  - Designed the *UI interface* and developed the *React-based frontend*.  
+  - Gained practical experience in *frontend development* and *teamwork*.
+  - [View Project on GitHub](https://github.com/sarfarazsfz/springvote-react)  
 
 - *Simon Says Game (JavaScript)*  
   - Created an interactive memory-based game using *HTML, CSS, and JavaScript*.  
