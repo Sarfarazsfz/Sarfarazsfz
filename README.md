@@ -13,7 +13,7 @@
   
   <!-- Quick Badge -->
   <p>
-    <img alt="Profile: repos" src="https://img.shields.io/badge/Repos-5-blueviolet?style=for-the-badge" />
+    <img alt="Profile: repos" src="https://img.shields.io/badge/Repos-9-blueviolet?style=for-the-badge" />
   </p>
 </div>
 
@@ -74,17 +74,28 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ## 🚀 Notable projects (from your public repos)
 
-- *Simon-Says-Game* — memory-based game built with HTML, CSS, JavaScript. (Pinned).  
-  https://github.com/sarfarazsfz/Simon-Says-Game.
-- *Spotify-Web-Player-UI-Clone* — responsive UI clone that demonstrates advanced CSS layouts. Updated on profile.
-  https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone
-- *Random-Color-Generator* — JavaScript DOM practice project.  
+Below are **all** public repositories currently in your profile with short, recruiter-friendly descriptions and direct links. (Source: your GitHub profile). :contentReference[oaicite:1]{index=1}
+
+- **Sarfarazsfz** — (profile repo / personal README repo). `README` and profile assets.  
+  https://github.com/sarfarazsfz/Sarfarazsfz
+- **counter-app** — A simple and beautiful counter application built with React + Vite.  
+  https://github.com/sarfarazsfz/counter-app
+- **springvote-react** — Modern React-based voting system (faces/biometric demo, election creation, real-time voting).  
+  https://github.com/sarfarazsfz/springvote-react
+- **Seasro-Marketplace** — B2B AI recommendation model / marketplace demo.  
+  https://github.com/sarfarazsfz/Seasro-Marketplace
+- **Simon-Says-Game** — Memory-based Simon Says game (HTML, CSS, JavaScript) for DOM & game logic practice.  
+  https://github.com/sarfarazsfz/Simon-Says-Game
+- **Random-Color-Generator** — JavaScript DOM project that generates random color palettes.  
   https://github.com/sarfarazsfz/Random-Color-Generator
-- *Navigation-Menu-Bar* — responsive sidebar navigation demo. 
+- **Spotify-Web-Player-UI-Clone** — Responsive Spotify web player UI clone demonstrating advanced CSS layouts.  
+  https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone
+- **Navigation-Menu-Bar** — Responsive navigation sidebar demo built with HTML & CSS.  
   https://github.com/sarfarazsfz/Navigation-Menu-Bar
-- *index1.html* — prototype / demo page. 
+- **index1.html** — Prototype/demo page (project/demo HTML file).  
   https://github.com/sarfarazsfz/index1.html
 
+---
 
 ## 🚀 GitHub Stats
 
@@ -99,9 +110,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=donut&theme=radical&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
 </p>
 
-*Notes:*  
-- The cards above present a professional summary of your GitHub profile — total activity, repo counts and a breakdown of top languages across your public repositories.  
-- `include_all_commits=true` is added so the stats reflect commit contributions more completely (where supported by the service).
+*Quick summary (auto-derived from your repos):* **Top languages:** HTML, CSS, JavaScript. :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -115,18 +124,18 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   <img src="https://github-contributor-stats.vercel.app/api?username=Sarfarazsfz&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" height="150" alt="Contributor Stats"/>
 </p>
 
-*Why this is better:* these three cards give a clean, recruiter-friendly snapshot: achievements/trophies, contribution streak (consistency), and a top-contributor summary across your repos.
+*Why this is useful:* recruiters get trophies/achievements at a glance, can see your consistency (streak), and the contributor breakdown across repos.
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph (Dynamic Overview)
 
 <p align="center">
   <!-- Visually enhanced activity graph with color accents and area fill -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=00E676&point=FFFFFF&area=true" width="90%" alt="Contribution Graph" />
 </p>
 
-*Note:* This graph is a polished, high-contrast visual of your daily activity across all public repositories. It pairs well with the stats above to present a professional activity overview.
+*This graph + the stat cards above together form a clean, professional snapshot of your activity and skill footprint.* :contentReference[oaicite:3]{index=3}
 
 ---
 
