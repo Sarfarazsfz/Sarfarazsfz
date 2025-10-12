@@ -97,19 +97,19 @@ Below are **all** public repositories currently in your profile with short, recr
 
 ---
 
-## 🚀 GitHub Stats (theme: **dracula**)
+## 🚀 GitHub Stats (theme: **radical**)
 
 <p align="center">
-  <!-- Left: Big profile stats card (dracula theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- Left: Big profile stats card (radical theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
   <!-- Right: Top languages (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- Trophy row -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=dracula&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=radical&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
 </p>
 
 *Why this layout?* The left card gives a clean numerical snapshot (commits, stars, forks, PRs) while the right donut highlights the tech footprint across all repos — a balanced recruiter-friendly layout.
@@ -135,7 +135,7 @@ Below are **all** public repositories currently in your profile with short, recr
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=dracula&hide_border=true" alt="Streak Stats" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=radical&hide_border=true" alt="Streak Stats" width="90%" />
 </p>
 
 ---
