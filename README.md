@@ -64,6 +64,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ## 🧰 Tech stack — 
 <p align="center">
+  <!-- main icon row (Skill Icons) -->
   <a href="https://skillicons.dev" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind,mongodb,nodejs,express,ejs,react,mysql,eclipse,vscode,git,github,maven,bash,redux,c,python&perline=12&theme=dark" alt="skills" />
   </a>
@@ -75,45 +76,57 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 - *Simon-Says-Game* — memory-based game built with HTML, CSS, JavaScript. (Pinned).  
   https://github.com/sarfarazsfz/Simon-Says-Game.
-- *Spotify-Web-Player-UI-Clone* — responsive UI clone that demonstrates advanced CSS layouts. Updated on profile.  
+- *Spotify-Web-Player-UI-Clone* — responsive UI clone that demonstrates advanced CSS layouts. Updated on profile.
   https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone
 - *Random-Color-Generator* — JavaScript DOM practice project.  
   https://github.com/sarfarazsfz/Random-Color-Generator
-- *Navigation-Menu-Bar* — responsive sidebar navigation demo.  
+- *Navigation-Menu-Bar* — responsive sidebar navigation demo. 
   https://github.com/sarfarazsfz/Navigation-Menu-Bar
-- *index1.html* — prototype / demo page.  
+- *index1.html* — prototype / demo page. 
   https://github.com/sarfarazsfz/index1.html
 
 
----
-
-## 🚀 GitHub Stats (Professional Overview)
-<p align="center">
-  <a href="https://github.com/Sarfarazsfz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-  </a>
-</p>
-
----
-
-## 📊 Contribution Stats (Detailed Insights)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarfarazsfz&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sarfarazsfz&theme=tokyonight&utcOffset=5.5" height="170" />
-</p>
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarfarazsfz&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarfarazsfz&theme=tokyonight" height="150" />
+  <!-- Profile summary card (compact, professional) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarfarazsfz&theme=radical" alt="Profile Details" width="90%" />
+
+  <br/>
+
+  <!-- Full stats (shows commits, stars, forks) + Top languages (donut) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=donut&theme=radical&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
 </p>
+
+*Notes:*  
+- The cards above present a professional summary of your GitHub profile — total activity, repo counts and a breakdown of top languages across your public repositories.  
+- `include_all_commits=true` is added so the stats reflect commit contributions more completely (where supported by the service).
 
 ---
 
-## 📈 Contribution Graph (Dynamic Activity)
+### 📊 Contribution Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=70A5FD&point=FFFFFF&area=true&hide_title=false" />
+  <!-- Trophies + streaks + contributor breakdown -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=radical&column=5" alt="Trophies" width="90%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=radical&hide_border=true" height="150" alt="Streak Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sarfarazsfz&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" height="150" alt="Contributor Stats"/>
 </p>
+
+*Why this is better:* these three cards give a clean, recruiter-friendly snapshot: achievements/trophies, contribution streak (consistency), and a top-contributor summary across your repos.
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <!-- Visually enhanced activity graph with color accents and area fill -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=00E676&point=FFFFFF&area=true" width="90%" alt="Contribution Graph" />
+</p>
+
+*Note:* This graph is a polished, high-contrast visual of your daily activity across all public repositories. It pairs well with the stats above to present a professional activity overview.
 
 ---
 
@@ -128,3 +141,5 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 - GitHub: [@sarfarazsfz](https://github.com/sarfarazsfz)
 - LinkedIn: [in/faraz4237](https://www.linkedin.com/in/faraz4237)
 - Email: mdsarfarazalam669@gmail.com
+
+---
