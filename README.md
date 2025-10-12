@@ -97,19 +97,19 @@ Below are **all** public repositories currently in your profile with short, recr
 
 ---
 
-## 🚀 GitHub Stats (theme: **radical**)
+## 🚀 GitHub Stats (theme: **dark**)
 
 <p align="center">
-  <!-- Left: Big profile stats card (radical theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- Left: Big profile stats card (dark theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
   <!-- Right: Top languages (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- Trophy row -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=radical&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=dark&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
 </p>
 
 *Why this layout?* The left card gives a clean numerical snapshot (commits, stars, forks, PRs) while the right donut highlights the tech footprint across all repos — a balanced recruiter-friendly layout.
@@ -119,23 +119,22 @@ Below are **all** public repositories currently in your profile with short, recr
 ### 📊 Contribution & Highlights
 
 <p align="center">
-  <!-- Repo star badges -->
-  <a href="https://github.com/sarfarazsfz/Simon-Says-Game">
-    <img src="https://img.shields.io/github/stars/Sarfarazsfz/Simon-Says-Game?style=flat-square&label=Simon%20Says&logo=github" alt="Simon Says Stars" />
+  <a href="https://github.com/sarfarazsfz/Simon-Says-Game" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarfarazsfz&repo=Simon-Says-Game&theme=dark" alt="Simon Says" />
   </a>
   &nbsp;
-  <a href="https://github.com/sarfarazsfz/springvote-react">
-    <img src="https://img.shields.io/github/stars/Sarfarazsfz/springvote-react?style=flat-square&label=SpringVote&logo=github" alt="SpringVote Stars" />
+  <a href="https://github.com/sarfarazsfz/springvote-react" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarfarazsfz&repo=springvote-react&theme=dark" alt="SpringVote" />
   </a>
   &nbsp;
-  <a href="https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone">
-    <img src="https://img.shields.io/github/stars/Sarfarazsfz/Spotify-Web-Player-UI-Clone?style=flat-square&label=Spotify%20UI&logo=github" alt="Spotify UI Stars" />
+  <a href="https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone" target="_blank" rel="noopener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarfarazsfz&repo=Spotify-Web-Player-UI-Clone&theme=dark" alt="Spotify UI" />
   </a>
 </p>
 
 <p align="center">
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=radical&hide_border=true" alt="Streak Stats" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=dark&hide_border=true" alt="Streak Stats" width="90%" />
 </p>
 
 ---
