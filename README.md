@@ -97,29 +97,29 @@ Below are **all** public repositories currently in your profile with short, recr
 
 ---
 
-## 🚀 GitHub Stats (Polished visual layout)
+## 🚀 GitHub Stats (theme: **dark**)
 
 <p align="center">
-  <!-- Left: Big profile stats card (modern theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <!-- Left: Big profile stats card (dark theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
-  <!-- Right: Top languages + repo language bar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  <!-- Right: Top languages (compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- A clean trophy row for achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=tokyonight&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
+  <!-- Trophy row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=dark&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
 </p>
 
-*Why this layout?* The left card gives a clean numerical snapshot (commits, stars, forks, PRs) while the right donut highlights the tech footprint across all repos — together they look balanced and modern.
+*Why this layout?* The left card gives a clean numerical snapshot (commits, stars, forks, PRs) while the right donut highlights the tech footprint across all repos — a balanced recruiter-friendly layout.
 
 ---
 
 ### 📊 Contribution & Highlights
 
 <p align="center">
-  <!-- A compact "Top Repos" highlight row using shields for social proof -->
+  <!-- Repo star badges -->
   <a href="https://github.com/sarfarazsfz/Simon-Says-Game">
     <img src="https://img.shields.io/github/stars/Sarfarazsfz/Simon-Says-Game?style=flat-square&label=Simon%20Says&logo=github" alt="Simon Says Stars" />
   </a>
@@ -134,27 +134,23 @@ Below are **all** public repositories currently in your profile with short, recr
 </p>
 
 <p align="center">
-  <!-- Streak / contribution consistency -->
-  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=tokyonight&hide_border=true" alt="Streak Stats" width="90%" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=dark&hide_border=true" alt="Streak Stats" width="90%" />
 </p>
-
-*Quick highlights:* repo badges above show social proof (stars) for three notable projects — useful in a recruiter scan.
 
 ---
 
-### 📈 Contribution Graph (Beautiful heatmaps & activity visuals)
+### 📈 Contribution Graph (heatmap + activity)
 
 <p align="center">
-  <!-- Clean activity heatmap (alternative style) -->
+  <!-- Heatmap -->
   <img src="https://ghchart.rshah.org/Sarfarazsfz" alt="Contribution Heatmap" width="90%" />
 </p>
 
 <p align="center">
-  <!-- Activity graph with accent colors and area fill -->
+  <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=00E676&point=FFFFFF&area=true" alt="Activity Graph" width="90%" />
 </p>
-
-*Why two views?* The `ghchart` is an elegant full-width heatmap; the activity-graph provides a trend line and area fill — together they give both daily cadence and trend insights.
 
 ---
 
