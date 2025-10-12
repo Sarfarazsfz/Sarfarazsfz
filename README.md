@@ -95,7 +95,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   🔗 [Live Demo](https://sarfarazsfz.github.io/Simon-Says-Game/) | [GitHub](https://github.com/sarfarazsfz/Simon-Says-Game)
 
 - **[Spotify-Web-Player-UI-Clone](https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone)** — Responsive Spotify UI clone  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone)
+  🔗 [Live Demo](https://sarfarazsfz.github.io/Spotify-Web-Player-UI-Clone/)
 
 - **[Random-Color-Generator](https://sarfarazsfz.github.io/Random-Color-Generator/)** — Dynamic color generator with DOM manipulation  
   🔗 [Live Demo](https://sarfarazsfz.github.io/Random-Color-Generator/) | [GitHub](https://github.com/sarfarazsfz/Random-Color-Generator)
