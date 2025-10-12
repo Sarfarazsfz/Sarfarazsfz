@@ -41,13 +41,13 @@ I am committed to continuous learning and aim to build a career as a developer i
 ---
 
 ### 💻 Projects & Experience
-- **IDP Project — Digital Spring Vote**  
+- *IDP Project — Digital Spring Vote*  
   🎯 Leading the project team  
   🎨 Designed the UI interface and developed the React-based frontend  
   🤝 Gained practical experience in frontend development and teamwork
   🔗 [Live Demo](https://sarfarazsfz.github.io/springvote-react/)  
 
-- **Simon Says Game (JavaScript)**  
+- *Simon Says Game (JavaScript)*  
   🎮 Created an interactive memory-based game using HTML, CSS, and JavaScript  
   ⚡ Strengthened my concepts in DOM manipulation and event handling  
   🔗 [Live Demo](https://sarfarazsfz.github.io/Simon-Says-Game/)  
@@ -62,12 +62,12 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ### 🌱 Hobbies & Interests
 - 🎌 Watching Anime & Reading Manga — inspires me to stay creative  
-- 🛠️ Fascinated by how tools like Blender and other advanced technologies are used in anime creation  
+- 🛠 Fascinated by how tools like Blender and other advanced technologies are used in anime creation  
 - 💡 This curiosity motivates me to keep exploring technology and innovation  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <!-- main icon row (Skill Icons) -->
@@ -85,7 +85,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
   🔗 [Live Demo](https://sarfarazsfz.github.io/springvote-react/) | [GitHub](https://github.com/Sarfarazsfz/springvote-react)
 
 - **[Counter App](https://sarfarazsfz.github.io/counter-app/)** — Interactive counter application built with React  
-  🔗 [Live Demo](https://sarfarazsfz.github.io/counter-app/) | [GitHub](https://github.com/Sarfarazsfz/counter-app)
+  🔗 [Live Demo](https://counter-app-tau-orcin.vercel.app/) | [GitHub](https://github.com/Sarfarazsfz/counter-app)
 
 - **[Seasro Marketplace](https://github.com/Sarfarazsfz/Seasro-Marketplace)** — E-commerce marketplace platform (In Development)  
   🔗 [GitHub](https://github.com/Sarfarazsfz/Seasro-Marketplace)
@@ -104,34 +104,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 - **[Navigation-Menu-Bar](https://sarfarazsfz.github.io/Navigation-Menu-Bar/)** — Responsive sidebar navigation component  
   🔗 [Live Demo](https://sarfarazsfz.github.io/Navigation-Menu-Bar/) | [GitHub](https://github.com/sarfarazsfz/Navigation-Menu-Bar)
 
-- **[Analog-Clock](https://github.com/sarfarazsfz/Analog-Clock)** — JavaScript analog clock with smooth animations  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Analog-Clock)
 
-- **[Calculator-App](https://github.com/sarfarazsfz/Calculator-App)** — Functional calculator with clean UI design  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Calculator-App)
-
-- **[To-Do-List-App](https://github.com/sarfarazsfz/To-Do-List-App)** — Task management application  
-  🔗 [GitHub](https://github.com/sarfarazsfz/To-Do-List-App)
-
-### 🎨 UI/UX Projects
-- **[Login-Page-Design](https://github.com/sarfarazsfz/Login-Page-Design)** — Modern login page template  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Login-Page-Design)
-
-- **[Profile-Card-Design](https://github.com/sarfarazsfz/Profile-Card-Design)** — Creative profile card component  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Profile-Card-Design)
-
-- **[Weather-App-UI](https://github.com/sarfarazsfz/Weather-App-UI)** — Weather application interface design  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Weather-App-UI)
-
-### 🔧 Practice & Learning
-- **[Java-Programming](https://github.com/sarfarazsfz/Java-Programming)** — Java practice programs and algorithms  
-  🔗 [GitHub](https://github.com/sarfarazsfz/Java-Programming)
-
-- **[JavaScript-Projects](https://github.com/sarfarazsfz/JavaScript-Projects)** — Collection of JavaScript learning projects  
-  🔗 [GitHub](https://github.com/sarfarazsfz/JavaScript-Projects)
-
-- **[HTML-CSS-Projects](https://github.com/sarfarazsfz/HTML-CSS-Projects)** — Frontend development practice  
-  🔗 [GitHub](https://github.com/sarfarazsfz/HTML-CSS-Projects)
 
 ---
 
@@ -169,8 +142,6 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 </div>
 
----
-
 ## 📂 Project Categories
 
 <div align="center">
@@ -193,11 +164,11 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ## ✨ Development Focus
 
-- 🎨 **Frontend Development**: React, JavaScript, Tailwind CSS, Responsive Design
-- 🎯 **UI/UX Design**: Creating intuitive and beautiful user interfaces
-- 🔧 **Full-Stack Practice**: Building complete web applications
-- 🚀 **Modern Technologies**: Exploring latest frameworks and tools
-- 📱 **Interactive Applications**: Games, utilities, and real-world solutions
+- 🎨 *Frontend Development*: React, JavaScript, Tailwind CSS, Responsive Design
+- 🎯 *UI/UX Design*: Creating intuitive and beautiful user interfaces
+- 🔧 *Full-Stack Practice*: Building complete web applications
+- 🚀 *Modern Technologies*: Exploring latest frameworks and tools
+- 📱 *Interactive Applications*: Games, utilities, and real-world solutions
 
 ---
 
