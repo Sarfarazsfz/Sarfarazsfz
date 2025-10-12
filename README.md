@@ -78,13 +78,60 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Featured Projects
 
-- **[Simon-Says-Game](https://github.com/sarfarazsfz/Simon-Says-Game)** — Memory-based game built with HTML, CSS, JavaScript
-- **[Spotify-Web-Player-UI-Clone](https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone)** — Responsive UI clone demonstrating advanced CSS layouts
-- **[Random-Color-Generator](https://github.com/sarfarazsfz/Random-Color-Generator)** — JavaScript DOM practice project
-- **[Navigation-Menu-Bar](https://github.com/sarfarazsfz/Navigation-Menu-Bar)** — Responsive sidebar navigation demo
-- **[Digital Spring Vote](https://sarfarazsfz.github.io/springvote-react/)** — React-based voting platform (Main Project)
+### 🌟 React Applications
+- **[Digital Spring Vote](https://sarfarazsfz.github.io/springvote-react/)** — React-based voting platform with modern UI  
+  🔗 [Live Demo](https://sarfarazsfz.github.io/springvote-react/) | [GitHub](https://github.com/Sarfarazsfz/springvote-react)
+
+- **[Counter App](https://sarfarazsfz.github.io/counter-app/)** — Interactive counter application built with React  
+  🔗 [Live Demo](https://sarfarazsfz.github.io/counter-app/) | [GitHub](https://github.com/Sarfarazsfz/counter-app)
+
+- **[Seasro Marketplace](https://github.com/Sarfarazsfz/Seasro-Marketplace)** — E-commerce marketplace platform (In Development)  
+  🔗 [GitHub](https://github.com/Sarfarazsfz/Seasro-Marketplace)
+
+### 🎮 JavaScript Games & Apps
+- **[Simon-Says-Game](https://sarfarazsfz.github.io/Simon-Says-Game/)** — Interactive memory game with JavaScript  
+  🔗 [Live Demo](https://sarfarazsfz.github.io/Simon-Says-Game/) | [GitHub](https://github.com/sarfarazsfz/Simon-Says-Game)
+
+- **[Spotify-Web-Player-UI-Clone](https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone)** — Responsive Spotify UI clone  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone)
+
+- **[Random-Color-Generator](https://sarfarazsfz.github.io/Random-Color-Generator/)** — Dynamic color generator with DOM manipulation  
+  🔗 [Live Demo](https://sarfarazsfz.github.io/Random-Color-Generator/) | [GitHub](https://github.com/sarfarazsfz/Random-Color-Generator)
+
+### 💻 Frontend Projects
+- **[Navigation-Menu-Bar](https://sarfarazsfz.github.io/Navigation-Menu-Bar/)** — Responsive sidebar navigation component  
+  🔗 [Live Demo](https://sarfarazsfz.github.io/Navigation-Menu-Bar/) | [GitHub](https://github.com/sarfarazsfz/Navigation-Menu-Bar)
+
+- **[Analog-Clock](https://github.com/sarfarazsfz/Analog-Clock)** — JavaScript analog clock with smooth animations  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Analog-Clock)
+
+- **[Calculator-App](https://github.com/sarfarazsfz/Calculator-App)** — Functional calculator with clean UI design  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Calculator-App)
+
+- **[To-Do-List-App](https://github.com/sarfarazsfz/To-Do-List-App)** — Task management application  
+  🔗 [GitHub](https://github.com/sarfarazsfz/To-Do-List-App)
+
+### 🎨 UI/UX Projects
+- **[Login-Page-Design](https://github.com/sarfarazsfz/Login-Page-Design)** — Modern login page template  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Login-Page-Design)
+
+- **[Profile-Card-Design](https://github.com/sarfarazsfz/Profile-Card-Design)** — Creative profile card component  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Profile-Card-Design)
+
+- **[Weather-App-UI](https://github.com/sarfarazsfz/Weather-App-UI)** — Weather application interface design  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Weather-App-UI)
+
+### 🔧 Practice & Learning
+- **[Java-Programming](https://github.com/sarfarazsfz/Java-Programming)** — Java practice programs and algorithms  
+  🔗 [GitHub](https://github.com/sarfarazsfz/Java-Programming)
+
+- **[JavaScript-Projects](https://github.com/sarfarazsfz/JavaScript-Projects)** — Collection of JavaScript learning projects  
+  🔗 [GitHub](https://github.com/sarfarazsfz/JavaScript-Projects)
+
+- **[HTML-CSS-Projects](https://github.com/sarfarazsfz/HTML-CSS-Projects)** — Frontend development practice  
+  🔗 [GitHub](https://github.com/sarfarazsfz/HTML-CSS-Projects)
 
 ---
 
@@ -124,12 +171,33 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ---
 
+## 📂 Project Categories
+
+<div align="center">
+
+### 🎯 By Technology
+![React](https://img.shields.io/badge/React_Projects-3-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_Projects-8-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS_Projects-6-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java_Projects-3-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 💡 By Type
+![Web Apps](https://img.shields.io/badge/Web_Applications-7-4EA94B?style=for-the-badge&logo=web&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI/UX_Designs-4-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![Games](https://img.shields.io/badge/Games-2-9C27B0?style=for-the-badge&logo=game&logoColor=white)
+![Tools](https://img.shields.io/badge/Utility_Tools-5-FF9800?style=for-the-badge&logo=tools&logoColor=white)
+
+</div>
+
+---
+
 ## ✨ Development Focus
 
 - 🎨 **Frontend Development**: React, JavaScript, Tailwind CSS, Responsive Design
 - 🎯 **UI/UX Design**: Creating intuitive and beautiful user interfaces
 - 🔧 **Full-Stack Practice**: Building complete web applications
 - 🚀 **Modern Technologies**: Exploring latest frameworks and tools
+- 📱 **Interactive Applications**: Games, utilities, and real-world solutions
 
 ---
 
@@ -156,9 +224,10 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 <div align="center">
 
 ### ⚡ Quick Stats
-![Repos](https://img.shields.io/badge/Repositories-5+-blue?style=for-the-badge&logo=github)
+![Total Projects](https://img.shields.io/badge/Total_Projects-18+-blue?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Growing-success?style=for-the-badge&logo=github)
 ![Focus](https://img.shields.io/badge/Focus-Frontend%20%26%20React-orange?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-purple?style=for-the-badge)
 
 </div>
 
