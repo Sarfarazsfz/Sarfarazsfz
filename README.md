@@ -74,7 +74,7 @@ I am eager to keep learning, growing, and applying my skills to real-world proje
 
 ## 🚀 Notable projects (from your public repos)
 
-Below are **all** public repositories currently in your profile with short, recruiter-friendly descriptions and direct links. (Source: your GitHub profile). :contentReference[oaicite:1]{index=1}
+Below are **all** public repositories currently in your profile with short, recruiter-friendly descriptions and direct links.
 
 - **Sarfarazsfz** — (profile repo / personal README repo). `README` and profile assets.  
   https://github.com/sarfarazsfz/Sarfarazsfz
@@ -97,45 +97,64 @@ Below are **all** public repositories currently in your profile with short, recr
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Stats (Polished visual layout)
 
 <p align="center">
-  <!-- Profile summary card (compact, professional) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarfarazsfz&theme=radical" alt="Profile Details" width="90%" />
+  <!-- Left: Big profile stats card (modern theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
-  <br/>
-
-  <!-- Full stats (shows commits, stars, forks) + Top languages (donut) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarfarazsfz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=donut&theme=radical&hide_border=true&langs_count=10" height="150" alt="Top Languages" />
+  <!-- Right: Top languages + repo language bar -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarfarazsfz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
-*Quick summary (auto-derived from your repos):* **Top languages:** HTML, CSS, JavaScript. :contentReference[oaicite:2]{index=2}
+<p align="center">
+  <!-- A clean trophy row for achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=tokyonight&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
+</p>
+
+*Why this layout?* The left card gives a clean numerical snapshot (commits, stars, forks, PRs) while the right donut highlights the tech footprint across all repos — together they look balanced and modern.
 
 ---
 
-### 📊 Contribution Stats
+### 📊 Contribution & Highlights
 
 <p align="center">
-  <!-- Trophies + streaks + contributor breakdown -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarfarazsfz&theme=radical&column=5" alt="Trophies" width="90%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=radical&hide_border=true" height="150" alt="Streak Stats"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sarfarazsfz&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" height="150" alt="Contributor Stats"/>
+  <!-- A compact "Top Repos" highlight row using shields for social proof -->
+  <a href="https://github.com/sarfarazsfz/Simon-Says-Game">
+    <img src="https://img.shields.io/github/stars/Sarfarazsfz/Simon-Says-Game?style=flat-square&label=Simon%20Says&logo=github" alt="Simon Says Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sarfarazsfz/springvote-react">
+    <img src="https://img.shields.io/github/stars/Sarfarazsfz/springvote-react?style=flat-square&label=SpringVote&logo=github" alt="SpringVote Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sarfarazsfz/Spotify-Web-Player-UI-Clone">
+    <img src="https://img.shields.io/github/stars/Sarfarazsfz/Spotify-Web-Player-UI-Clone?style=flat-square&label=Spotify%20UI&logo=github" alt="Spotify UI Stars" />
+  </a>
 </p>
 
-*Why this is useful:* recruiters get trophies/achievements at a glance, can see your consistency (streak), and the contributor breakdown across repos.
+<p align="center">
+  <!-- Streak / contribution consistency -->
+  <img src="https://streak-stats.demolab.com?user=Sarfarazsfz&theme=tokyonight&hide_border=true" alt="Streak Stats" width="90%" />
+</p>
+
+*Quick highlights:* repo badges above show social proof (stars) for three notable projects — useful in a recruiter scan.
 
 ---
 
-### 📈 Contribution Graph (Dynamic Overview)
+### 📈 Contribution Graph (Beautiful heatmaps & activity visuals)
 
 <p align="center">
-  <!-- Visually enhanced activity graph with color accents and area fill -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=00E676&point=FFFFFF&area=true" width="90%" alt="Contribution Graph" />
+  <!-- Clean activity heatmap (alternative style) -->
+  <img src="https://ghchart.rshah.org/Sarfarazsfz" alt="Contribution Heatmap" width="90%" />
 </p>
 
-*This graph + the stat cards above together form a clean, professional snapshot of your activity and skill footprint.* :contentReference[oaicite:3]{index=3}
+<p align="center">
+  <!-- Activity graph with accent colors and area fill -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarfarazsfz&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=00E676&point=FFFFFF&area=true" alt="Activity Graph" width="90%" />
+</p>
+
+*Why two views?* The `ghchart` is an elegant full-width heatmap; the activity-graph provides a trend line and area fill — together they give both daily cadence and trend insights.
 
 ---
 
