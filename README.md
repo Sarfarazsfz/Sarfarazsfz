@@ -245,7 +245,7 @@ MongoDB • JWT • REST APIs
 **⚙️ Tech Stack:**
 ```
 Node.js • Express.js • MongoDB
-React.js • Mapbox • Cloudinary
+JavaScript • EJS(Embedded JavaScript) • Mapbox • Cloudinary
 ```
 
 </td>
@@ -618,28 +618,6 @@ gantt
 - ⚡ Optimizing React Apps for Production
 - 🔐 Implementing Secure Authentication in Node.js
 <!-- BLOG-POST-LIST:END -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-sarfarazsfz.vercel.app/api/spotify)](https://open.spotify.com/user/your-username)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Sarfarazsfz/Sarfarazsfz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Random Dev Quote
 
