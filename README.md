@@ -56,8 +56,8 @@ const sarfaraz = {
         frontend: ["React.js", "Next.js", "Tailwind CSS", "Material UI"],
         backend: ["Node.js", "Express.js", "REST APIs"],
         database: ["MongoDB", "MySQL", "MongoDB Atlas"],
-        devOps: ["Git", "GitHub", "Render", "Vercel"],
-        languages: ["JavaScript (ES6+)", "Java", "Python", "C"]
+        devOps: ["Git", "GitHub", "Render", "Vercel", "Docker", "AWS"],
+        languages: ["Java", "JavaScript (ES6+)"]
     },
     
     currentlyBuilding: ["AI Conversational Systems", "E-Commerce Platforms"],
