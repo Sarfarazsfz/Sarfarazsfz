@@ -17,4 +17,4 @@
 
 ## Contact
 
-📧 Email: your email
+📧 Email: sarfaraz.alam.dev@gmail.com
