@@ -1,20 +1,40 @@
-# Hi 👋, I'm Md Sarfaraz Alam
+<div align="center">
 
-🎓 B.Tech CSE Student  
-💻 Java Developer  
-🚀 Learning GitHub and Open Source  
+<pre>
+███████╗ █████╗ ██████╗  █████╗ ███████╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗╚══███╔╝
+█████╗  ███████║██████╔╝███████║  ███╔╝ 
+██╔══╝  ██╔══██║██╔══██╗██╔══██║ ███╔╝  
+██║     ██║  ██║██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
 
-## Skills
+</div>
 
-- Java
-- Spring Boot
-- GitHub
-- Data Structures
+<div align="center">
 
-## Projects
+I am solving Data Structures and Algorithms daily and building strong problem solving skills.
 
-- JobMatchAI
+</div>
 
-## Contact
+<br>
 
-📧 Email: sarfaraz.alam.dev@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/faraz4237">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/faraz4237">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="mailto:sarfaraz.alam.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Sarfarazsfz/faraz-dsa-journey">
+  <img src="https://img.shields.io/badge/DSA%20Journey-green?style=for-the-badge&logo=github">
+</a>
+
+</div>
