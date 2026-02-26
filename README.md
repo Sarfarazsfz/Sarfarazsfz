@@ -16,6 +16,7 @@
 I am solving Data Structures and Algorithms daily and building strong problem solving skills.
 
 </div>
+
 <br>
 
 <div align="center">
@@ -33,7 +34,7 @@ I am solving Data Structures and Algorithms daily and building strong problem so
 </a>
 
 <a href="https://github.com/Sarfarazsfz/faraz-dsa-journey">
-  <img src="https://img.shields.io/badge/DSA%20Journey-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/DSA%20Journey-5C5C5C?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
