@@ -22,8 +22,7 @@ I am solving Data Structures and Algorithms daily and building strong problem so
 <div align="center">
 
 <a href="https://www.linkedin.com/in/faraz4237">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://leetcode.com/faraz4237">
