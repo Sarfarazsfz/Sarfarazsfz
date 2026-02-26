@@ -13,7 +13,7 @@
 
 <div align="center">
 
-I am solving Data Structures and Algorithms daily and building strong problem solving skills.
+Building strong problem solving skills from scratch to advanced.
 
 </div>
 
